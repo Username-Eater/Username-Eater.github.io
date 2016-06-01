@@ -42,8 +42,8 @@ body {
     background-image: url("/images/wood-background.jpg");
     background-repeat:repeat-y;
     background-size: 200px 1000px;
-    background-color: #cccccc;
     background-position: left ;
+    background-color: #cccccc;
 }
 
 #content {
