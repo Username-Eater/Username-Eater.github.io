@@ -39,7 +39,7 @@ h2{
 }
 
 body {
-    background-image: url("/images/wood-background.jpg");
+    background-image: url("/images/background.jpg");
     background-repeat:repeat-y;
     background-size: 200px 100px;
     background-position: left ;
@@ -47,7 +47,7 @@ body {
 }
 
 #content {
-    background-image: url("/images/wood-background.jpg");
+    background-image: url("/images/background.jpg");
     background-repeat:repeat-y;
     background-size: 200px 100px;
     background-position: right ;
